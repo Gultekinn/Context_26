@@ -1,0 +1,14 @@
+.cardss{
+    
+    padding: 120px 200px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 100px;
+    .cardd{
+        width: 230px;
+        height: 220px;
+        
+        text-align: center;
+    }
+}
